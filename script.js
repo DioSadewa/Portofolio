@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // --- Animasi Typing yang Dipercepat ---
     const typingText = document.getElementById('typing-text');
-    const words = ["Ex-Mechanical Engineering Drawing Assistant", "Ex-Maintenance Technician in PT Astra Graphia Tbk", "Fasillitator Kementerian Pendidikan Dasar dan Menengah", "PPIC Internship at PT Kati Kartika Murni"];
+    const words = ["Ex-Mechanical Engineering Drawing Assistant", "Ex-Maintenance Technician in PT Astra Graphia Tbk", "Fasillitator Kementerian Pendidikan Dasar dan Menengah"];
     let wordIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
